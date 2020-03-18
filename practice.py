@@ -1,6 +1,7 @@
 from math import sin,cos,pi
 from direct.showbase.ShowBase import ShowBase
 from direct.task import Task
+#はげむずい
 class MyApp(ShowBase):
     def __init__(self):
         ShowBase.__init__(self)
